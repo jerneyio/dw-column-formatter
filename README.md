@@ -13,4 +13,4 @@ Formats DataWeave columns from the clipboard
 1. `python3 -m unittest col-align.Test`
 
 ## Notes
-Please note this code has only been created to run on Mac and I have no plans to port it to other systems. It is also only been tested against the unit tests.
+Please note this code has only been created to run on Mac and I have no plans to port it to other systems. It has also only been tested against the unit tests.
