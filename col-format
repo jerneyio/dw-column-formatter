@@ -1,0 +1,2 @@
+#!/bin/bash
+pbpaste | python3 /Users/JoshuaErney/Scripts/col-align.py | pbcopy
